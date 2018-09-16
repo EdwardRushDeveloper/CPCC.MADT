@@ -14,5 +14,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\cpcc\" />
+    <Folder Include="Note\" />
+    <Folder Include="Views\Style\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Views\cpcc\Base.css" />
   </ItemGroup>
 </Project>

@@ -14,7 +14,7 @@ namespace madt
             InitializeComponent();
 
 
-            MainPage = new madt.Views.cpcc.MainPage();
+            MainPage = new madt.Views.cpcc.FlexMainPage();
         }
 
         protected override void OnStart()

@@ -1,0 +1,15 @@
+﻿{
+
+    "design": {
+
+        "GridView": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid",
+        "SrollView": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/scroll-view",
+        "ColorPalette": "https://www.w3schools.com/colors/colors_picker.asp",
+        "SafeLayoutiOS": "https://blog.xamarin.com/making-ios-11-even-easier-xamarin-forms/",
+        "XamarinFormsStyle": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/xaml/index"
+
+    }
+
+
+
+} 

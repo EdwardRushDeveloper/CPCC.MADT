@@ -5,10 +5,11 @@ using Xamarin.Forms;
 
 namespace madt.Views.cpcc
 {
-    public partial class MainPage : ContentPage
+    public partial class FlexMainPage : ContentPage
     {
-        public MainPage()
+        public FlexMainPage()
         {
+
             InitializeComponent();
         }
     }
