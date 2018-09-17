@@ -8,7 +8,6 @@
 <ContentPage.Resources>
     <StyleSheet Source="/Views/Style/Base.css" />
 </ContentPage.Resources>    
-   
 
     <ContentPage.Content>
         
@@ -17,22 +16,14 @@
                 <!--Pin to Top-->
                 <Label FlexLayout.AlignSelf="Stretch" FlexLayout.Order="0" class="contentPageHeaderFooter" Text="WEB 151"/>
                 
-                
                 <!--Fill in extra space left, this will be the body of our page-->
                 <FlexLayout Direction="Column" FlexLayout.Grow="1" FlexLayout.Order="1" BackgroundColor="White">
-                      
-                
-                
                 
                     <FlexLayout class="identiferContainer">
                         <Button class="identifierButton" BorderRadius="37" Text="E" FontSize="Large"/>
                     </FlexLayout>
                 
-                
-                
-                
                 </FlexLayout>
-                
 
                 <!--Pin to Bottom-->
                 <Label FlexLayout.Order="2" class="contentPageHeaderFooter" Text="CPCC WEB 151" /> 
